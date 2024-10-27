@@ -3,13 +3,13 @@
 Project Title: GDP, Growth, and Inflation Analysis with Predictive Modeling
 ________________________________________
 1. Project Overview
-•	Objective: Analyze GDP, GDP growth rate, and inflation over the years, and predict future GDP values using linear regression.
-•	Tools and Libraries Used: Python, matplotlib for data visualization, scikit-learn for model building, and numpy for data manipulation.
+- Objective: Analyze GDP, GDP growth rate, and inflation over the years, and predict future GDP values using linear regression.
+- Tools and Libraries Used: Python, matplotlib for data visualization, scikit-learn for model building, and numpy for data manipulation.
 ________________________________________
 2. Data Collection & Preprocessing
-•	Data Source: World Development Indicators | DataBank (worldbank.org)
-•	Variables Analyzed:
-o	GDP: Gross Domestic Product over the years.
+- Data Source: World Development Indicators | DataBank (worldbank.org)
+- Variables Analyzed:
+--	GDP: Gross Domestic Product over the years.
 o	GDP Growth: Annual growth percentage in GDP.
 o	Inflation: Inflation rate as GDP deflator.
 •	Data Preparation Steps: Briefly mention any preprocessing steps like handling missing values, converting data types, and structuring data for time series analysis.
