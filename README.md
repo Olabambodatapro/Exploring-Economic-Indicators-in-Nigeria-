@@ -1,11 +1,10 @@
-# Exploring-Economic-Indicators-in-Nigeria-
+<h1>Project Title: Exploring Economic Indicators in Nigeria</h1>
 
-<h1>Project Title: GDP, Growth, and Inflation Analysis with Predictive Modeling</h1>
-________________________________________
 <h2>Project Overview</h2>
 - Objective: Analyze GDP, GDP growth rate, and inflation over the years, and predict future GDP values using linear regression.
 - Tools and Libraries Used: Python, matplotlib for data visualization, scikit-learn for model building, and numpy for data manipulation.
-________________________________________
+
+
 Data Collection & Preprocessing
 - Data Source: World Development Indicators | DataBank (worldbank.org)
 - Variables Analyzed:
