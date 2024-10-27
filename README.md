@@ -32,7 +32,7 @@ Using this model, I predicted the GDP for the year 2025, which yielded a value o
 
 The high RMSE and the implausible GDP forecast for 2025 highlighted the limitations of using simple linear regression on complex, non-linear economic data. Economic indicators like GDP are influenced by numerous factors, including political changes, global market dynamics, and unexpected events (e.g., pandemics), which linear models may not fully capture.
 The project underscored the importance of selecting models suited for complex economic forecasting. A more sophisticated approach, such as time-series analysis with ARIMA or using machine learning models like XGBoost, may provide greater accuracy for forecasting.
-________________________________________
+
 <h2>Conclusion</h2>
-•	Summary: The analysis successfully visualized GDP, GDP growth, and inflation trends over time, highlighting significant economic patterns.
-•	Insights: The data indicates an overall growth in GDP with fluctuations in growth rate and inflation, but limitations in predictive modeling suggest caution in using simple linear regression for complex economic forecasting.
+- Summary: The analysis successfully visualized GDP, GDP growth, and inflation trends over time, highlighting significant economic patterns.
+- Insights: The data indicates an overall growth in GDP with fluctuations in growth rate and inflation, but limitations in predictive modeling suggest caution in using simple linear regression for complex economic forecasting.
